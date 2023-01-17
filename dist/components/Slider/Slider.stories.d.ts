@@ -1,0 +1,4 @@
+declare const _default: import("@storybook/csf").ComponentAnnotations<import("@storybook/react").ReactFramework, import("@mui/types").DefaultComponentProps<import("@mui/base").ExtendSliderUnstyledTypeMap<import("@mui/material/Slider").SliderTypeMap<"span", {}>>>>;
+export default _default;
+export declare const Continuous: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/types").DefaultComponentProps<import("@mui/base").ExtendSliderUnstyledTypeMap<import("@mui/material/Slider").SliderTypeMap<"span", {}>>>>;
+export declare const Discrete: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/types").DefaultComponentProps<import("@mui/base").ExtendSliderUnstyledTypeMap<import("@mui/material/Slider").SliderTypeMap<"span", {}>>>>;

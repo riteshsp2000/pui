@@ -1,0 +1,16 @@
+declare const _default: import("@storybook/csf").ComponentAnnotations<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export default _default;
+export declare const Error: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const Warning: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const Info: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const Success: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const OutlinedError: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const OutlinedWarning: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const OutlinedInfo: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const OutlinedSuccess: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const FilledError: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const FilledWarning: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const FilledInfo: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const FilledSuccess: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const WithDescription: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;
+export declare const WithActionAndDescription: import("@storybook/csf").AnnotatedStoryFn<import("@storybook/react").ReactFramework, import("@mui/material").AlertProps>;

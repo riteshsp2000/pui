@@ -1,0 +1,8 @@
+{
+  "key": "cmd+opt 1",
+  "command": "editor.action.insertSnippet",
+  "when": "editorTextFocus",
+  "args": {
+    "name": "component-without-props"
+  }
+}
